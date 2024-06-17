@@ -6,9 +6,11 @@
 
 ## Структура проекта
 
+```
 FinstarTest/
 ├── FT-Client/
 └── FT-Server/
+```
 
 ## Установка
 
