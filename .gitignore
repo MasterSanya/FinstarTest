@@ -1,0 +1,25 @@
+# Ignore node_modules in FT-Client
+FT-Client/node_modules/
+FT-Client/.pnp
+FT-Client.pnp.js
+FT-Client/coverage
+FT-Client/build
+FT-Client/D.S_Store
+FT-Client/.env.local
+FT-Client/.env.development.local
+FT-Client/.env.test.local
+FT-Client/.env.production.local
+FT-Client/npm-debug.log*
+FT-Client/yarn-debug.log*
+FT-Client/yarn-error.log*
+
+# Ignore build output in FT-Server
+FT-Server/bin/
+FT-Server/obj/
+FT-Server/.vs
+FT-Server/*.user
+FT-Server/*.suo
+
+# Ignore common files
+.DS_Store
+desktop.ini
