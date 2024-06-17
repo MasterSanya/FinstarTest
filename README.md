@@ -17,7 +17,7 @@ FinstarTest/
 ### Клонирование репозитория
 
 ```sh
-git clone https://github.com/your-username/FinstarTest.git
+git clone https://github.com/MasterSanya/FinstarTest.git
 cd FinstarTest
 ```
 
